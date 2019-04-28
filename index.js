@@ -33,4 +33,3 @@ dec(2);
 function makeInt('n',10){
   return n;
 }
-

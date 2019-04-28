@@ -31,9 +31,6 @@ function dec(a){
 dec(2);
 
 function makeInt('n',10){
-  return 'n';
+  return n;
 }
 
-function makeInt(n){
-  return(n);
-}

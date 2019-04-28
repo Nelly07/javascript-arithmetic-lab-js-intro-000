@@ -31,10 +31,9 @@ function dec(a){
 dec(2);
 
 function makeInt(n){
-  return(n);
+  return ParseInt();
 }
 
 function makeInt(n){
   return(n);
 }
-makeInt(sdfsdfs);

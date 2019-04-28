@@ -33,7 +33,6 @@ dec(2);
 function makeInt(n){
   return(n);
 }
-makeInt('3');
 
 function makeInt(n){
   return(n);

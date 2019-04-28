@@ -30,6 +30,6 @@ function dec(a){
 }
 dec(2);
 
-function makeInt('n',10){
-  return n;
+function makeInt(n){
+  return Parseint('n',10);
 }
